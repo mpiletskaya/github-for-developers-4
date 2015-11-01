@@ -5,3 +5,5 @@
 **A favorite food:** Ice-Cream
 
 **A hobby:** Yoga
+
+**A favorite color: ** Purple
