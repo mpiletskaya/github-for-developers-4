@@ -7,3 +7,5 @@
 **A hobby:** Yoga
 
 **A favorite color: ** Purple
+
+**City: ** Minsk
